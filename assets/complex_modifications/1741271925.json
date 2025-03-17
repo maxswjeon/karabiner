@@ -53,8 +53,8 @@
           },
           "to": [
             {
-            "key_code": "left_arrow",
-            "modifiers": "command"
+              "key_code": "left_arrow",
+              "modifiers": "command"
             }
           ]
         }
@@ -112,8 +112,8 @@
           },
           "to": [
             {
-            "key_code": "right_arrow",
-            "modifiers": "command"
+              "key_code": "right_arrow",
+              "modifiers": "command"
             }
           ]
         }
